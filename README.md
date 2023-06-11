@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCruzdaSilva&theme=dark">
 </div>
   
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block, margim-top: 20px"><br>
     <img align="center" alt="HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScrip" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
